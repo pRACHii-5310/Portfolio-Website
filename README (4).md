@@ -27,6 +27,7 @@ Hosting: Deployed on a reliable platform like GitHub Pages.
 This project not only showcases my technical abilities but also demonstrates my attention to design, usability, and detail, reflecting my expertise as a frontend developer and my dedication to delivering high-quality work.
 
 OUTPUT URL:
+![image](https://github.com/user-attachments/assets/7dcf2df2-89cf-4d20-89d0-d510a804180f)
 
 
 
